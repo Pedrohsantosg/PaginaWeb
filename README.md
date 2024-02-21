@@ -11,5 +11,20 @@
 <li>Como passar as informações do encoding da nossa página para o navegador, através da tag <meta> e da propriedade charset</li>
 <li>Como definir o título de uma página, através da tag 'title'</li>
 <li>Como separar as informações que estão sendo passadas para o navegador, utilizando a tag 'head'</li>
-<li>Como separar o conteúdo da página, utilizando a tag 'body'
-</li>
+<li>Como separar o conteúdo da página, utilizando a tag 'body'</li>
+<p>A mexer na apresentação dos texto:</p>
+<li>No alinhamento deles (text-align)</li>
+<li>No tamanho da fonte (font-size)</li>
+<li>Na cor de fundo (background)</li>
+<li>Na cor do texto (color)</li>
+<li>CSS inline</li>
+<li>Na linha onde temos a nossa tag, adicionamos a propriedade do CSS</li>
+<li>A tag <style></li>
+<li>Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML</li>
+<li>A apresentação do CSS com um arquivo externo</li>
+<li>Como funciona o estilo em cascata do CSS</li>
+<li>Como importar um arquivo externo de CSS dentro da nossa página HTML</li>
+<li>Como representar cores no CSS</li>
+<li>Através do nome da cor</li>
+<li>Através do seu hexadecimal</li>
+<li>Através do seu RGB</li>

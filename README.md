@@ -12,7 +12,7 @@
 <li>Como definir o título de uma página, através da tag 'title'</li>
 <li>Como separar as informações que estão sendo passadas para o navegador, utilizando a tag 'head'</li>
 <li>Como separar o conteúdo da página, utilizando a tag 'body'</li>
-<p>A mexer na apresentação dos texto:</p>
+<h2>A mexer na apresentação dos texto:</h2>
 <li>No alinhamento deles (text-align)</li>
 <li>No tamanho da fonte (font-size)</li>
 <li>Na cor de fundo (background)</li>

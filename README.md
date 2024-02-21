@@ -28,3 +28,12 @@
 <li>Através do nome da cor</li>
 <li>Através do seu hexadecimal</li>
 <li>Através do seu RGB</li>
+<h2></h2>
+<li>Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo</li>
+<li>Como criar um identificador para marcar especificamente um elemento</li>
+<li>Como fazer referência a esse identificador no CSS</li>
+<li>Como adicionar uma imagem à nossa página</li>
+<li>Como ajustar a altura do elemento, através da propriedade height</li>
+<li>Como ajustar a largura do elemento, através da propriedade width</li>
+<li>Como ajustar o espaçamento interno do elemento, através da propriedade padding</li>
+<li>Como ajustar o espaçamento externo do elemento, através da propriedade margin</li>

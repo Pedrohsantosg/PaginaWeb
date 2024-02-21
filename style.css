@@ -16,7 +16,7 @@ p{
     
 }
 
-h1{
+h2{
     text-align: center;
 }
 
@@ -39,7 +39,7 @@ body{
     padding: 30px;
 }
  
-h2{
+.titulo-centralizado{
     text-align: center;
 }
 
@@ -52,4 +52,8 @@ ul{
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
+}
+
+.titulo-principal{
+    padding-left: 20px;
 }

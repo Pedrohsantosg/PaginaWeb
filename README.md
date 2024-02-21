@@ -43,4 +43,8 @@
 <li>Como referenciar uma classe no CSS</li>
 <li>Divisões de conteúdo, utilizando a tag 'div'</li>
 <li>Os comportamentos inline e block</li>
+<li>O conceito de cabeçalho da página e como criá-lo</li>
+<li>Que o cabeçalho da página deve ter mais destaque</li>
+<li>Que não é recomendado criar estilos usando tags</li>
+<li>O ideal é usarmos classes para tudo</li>
 

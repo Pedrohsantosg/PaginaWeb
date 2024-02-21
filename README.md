@@ -1,4 +1,5 @@
 <h1>Parte 1:</h1>
+<li>
 - Uma introdução ao HTML e às suas tags
 - Como definir o título e os parágrafos de um texto
 - Utilizando as tags 'h1' e 'p', respectivamente
@@ -12,3 +13,4 @@
 - Como definir o título de uma página, através da tag 'title'
 - Como separar as informações que estão sendo passadas para o navegador, utilizando a tag <head>
 - Como separar o conteúdo da página, utilizando a tag 'body'
+</li>

@@ -1,0 +1,21 @@
+p em {
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000
+}
+
+p{
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+    
+}
+
+body{
+    background: #CCCCCC;
+}

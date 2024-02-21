@@ -18,9 +18,38 @@ p{
 
 h1{
     text-align: center;
-    border: 10px solid #000000;
 }
 
 body{
+    background: #FFFFFF;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+
+}
+
+.principal{
     background: #CCCCCC;
+    padding: 30px;
+}
+ 
+h2{
+    text-align: center;
+}
+
+.imagembeneficios{
+    width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }

@@ -1,4 +1,4 @@
-<h1>Parte 1:</h1>
+<h1>Parte 1 :</h1>
 <li>Uma introdução ao HTML e às suas tags</li>
 <li>Como definir o título e os parágrafos de um texto</li>
 <li>Utilizando as tags 'h1' e 'p', respectivamente</li>
@@ -47,4 +47,7 @@
 <li>Que o cabeçalho da página deve ter mais destaque</li>
 <li>Que não é recomendado criar estilos usando tags</li>
 <li>O ideal é usarmos classes para tudo</li>
-
+<h1>Parte 2 :</h1>
+<li>Organização do Css, se baseando no Html presente</li>
+<li>Uma revisão da base de uma página HTML</li>
+<li>Lista HTML não ordenada</li>

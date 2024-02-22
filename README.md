@@ -51,3 +51,8 @@
 <li>Organização do Css, se baseando no Html presente</li>
 <li>Uma revisão da base de uma página HTML</li>
 <li>Lista HTML não ordenada</li>
+<li>A criar links para outras páginas, sejam elas do nosso projeto ou páginas externas</li>
+<li>Um reforço aos estilos inline e block</li>
+<li>Como transformar o texto para ter todas as letras maiúsculas</li>
+<li>Como deixar o texto em negrito com CSS</li>
+<li>Como remover a decoração do texto</li>

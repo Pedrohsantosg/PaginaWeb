@@ -71,3 +71,5 @@
 <li>active, quando um elemento está sendo ativado pelo usuário</li>
 <li>A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo</li>
 <li>A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário</li>
+<li>A tag footer, para o rodapé da nossa página</li>
+<li>A tabela Unicode</li>

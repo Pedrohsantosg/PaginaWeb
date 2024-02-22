@@ -66,7 +66,7 @@
 <li>AAtravés do CSS, aplicar bordas nos elementos.</li>
 <li>AOs diferentes tipos de bordas.</li>
 <li>AA deixar a borda arredondada.</li>
-<h2>Algumas pseudo-classes CSS:<h2>
+<li>Algumas pseudo-classes CSS</li>
 <li>hover, quando o usuário passa o cursor sobre o elemento</li>
 <li>active, quando um elemento está sendo ativado pelo usuário</li>
 <li>A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo</li>

@@ -63,4 +63,7 @@
 <li>A criar listas complexas, com títulos, imagens e parágrafos</li>
 <li>A utilizar o inline-block</li>
 <li>A praticar e estilizar o conteúdo principal da nossa página</li>
+<li>AAtravés do CSS, aplicar bordas nos elementos.</li>
+<li>AOs diferentes tipos de bordas.</li>
+<li>AA deixar a borda arredondada.</li>
 

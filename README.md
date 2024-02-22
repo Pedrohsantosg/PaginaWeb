@@ -59,3 +59,8 @@
 <li>Como remover os estilos que o navegador cria automaticamente</li>
 <li>Como funciona os posicionamentos static, relative e absolute dos elementos</li>
 <li>Como posicionar o cabeçalho da nossa página</li>
+<li>A tag main, para o conteúdo principal da nossa página</li>
+<li>A criar listas complexas, com títulos, imagens e parágrafos</li>
+<li>A utilizar o inline-block</li>
+<li>A praticar e estilizar o conteúdo principal da nossa página</li>
+

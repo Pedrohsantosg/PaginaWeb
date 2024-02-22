@@ -73,3 +73,5 @@
 <li>A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário</li>
 <li>A tag footer, para o rodapé da nossa página</li>
 <li>A tabela Unicode</li>
+<h1>Parte 3 :</h1>
+<li>A criação da página de contato</li>

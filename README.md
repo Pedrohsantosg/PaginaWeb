@@ -56,3 +56,6 @@
 <li>Como transformar o texto para ter todas as letras maiúsculas</li>
 <li>Como deixar o texto em negrito com CSS</li>
 <li>Como remover a decoração do texto</li>
+<li>Como remover os estilos que o navegador cria automaticamente</li>
+<li>Como funciona os posicionamentos static, relative e absolute dos elementos</li>
+<li>Como posicionar o cabeçalho da nossa página</li>

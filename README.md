@@ -75,3 +75,17 @@
 <li>A tabela Unicode</li>
 <h1>Parte 3 :</h1>
 <li>A criação da página de contato</li>
+<li>A criar um formulário HTML</li>
+<li>A tag que o representa é a 'form'</li>
+<li>A tag 'input', para a entrada de dados do usuário</li>
+<li>A criar uma etiqueta para o input, com a tag 'label'</li>
+<li>A conectar um input com o seu label</li>
+<li>Colocamos um id para o input e associamos esse id ao atributo for do label</li>
+<li>Alguns tipos de input, como text e submit</li>
+<li>Que label possui o display inline e o input possui display inline-block</li>
+<li>A estilizar o nosso formulário</li>
+
+
+
+
+

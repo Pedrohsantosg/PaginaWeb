@@ -84,6 +84,14 @@
 <li>Alguns tipos de input, como text e submit</li>
 <li>Que label possui o display inline e o input possui display inline-block</li>
 <li>A estilizar o nosso formulário</li>
+<li>O textarea, para entradas de texto de mais de uma linha
+<li>O input do tipo radio</li>
+<li>Como agrupar vários input do tipo radio, impedindo que mais de um input seja selecionado</li>
+<li>O input do tipo checkbox</li>
+<li>Que podemos criar um input dentro de um label, assim associando-os</li>
+<li>Mais estilizações para a nossa página</li>
+<li>Como funciona a hierarquia no CSS</li>
+<li>O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor</li>
 
 
 

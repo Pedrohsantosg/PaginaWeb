@@ -21,7 +21,7 @@
 <li>CSS inline</li>
 <li>Na linha onde temos a nossa tag, adicionei a propriedade do CSS</li>
 <li>A tag 'style'</li>
-<h2>Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML</h2>
+<li>Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML</li>
 <li>A apresentação do CSS com um arquivo externo</li>
 <li>Como funciona o estilo em cascata do CSS</li>
 <li>Como importar um arquivo externo de CSS dentro da nossa página HTML</li>

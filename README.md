@@ -8,7 +8,7 @@
 <li>A definir a estrutura básica do HTML</li>
 <li>Com a tag DOCTYPE, definimos qual versão do HTML estamos utilizando</li>
 <li>A tag 'html', que marca o conteúdo a ser renderizado no navegador</li>
-<h2>Dentro desta tag, podemos definir a linguagem da página, através da propriedade lang:</h2>
+<li>Dentro desta tag, podemos definir a linguagem da página, através da propriedade lang</li>li
 <li>Como passar as informações do encoding da nossa página para o navegador, através da tag 'meta' e da propriedade charset</li>
 <li>Como definir o título de uma página, através da tag 'title'</li>
 <li>Como separar as informações que estão sendo passadas para o navegador, utilizando a tag 'head'</li>
@@ -48,7 +48,7 @@
 <li>Que o cabeçalho da página deve ter mais destaque</li>
 <li>Que não é recomendado criar estilos usando tags</li>
 <li>O ideal é usarmos classes para tudo</li>
-<h1>Parte 2 :</h1>
+<h2>Parte 2 :</h2>
 <li>Organização do Css, se baseando no Html presente</li>
 <li>Uma revisão da base de uma página HTML</li>
 <li>Lista HTML não ordenada</li>

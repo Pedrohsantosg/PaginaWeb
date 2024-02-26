@@ -117,7 +117,3 @@
 <li>Medidas proporcionais com CSS</li>
 <li>Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS</li>
 <li>Como limpar o float, com a propriedade clear do CSS</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>

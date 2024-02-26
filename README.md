@@ -113,9 +113,10 @@
 <li>A tag tfoot, que representa o rodapé da tabela</li>
 <li>A estilizar a tabela</li>
 <h2>Parte 4 :</h2>
-<li></li>
-<li></li>
-<li></li>
+<li>A ajustar a página principal para utilizar os mesmos padrões da página de produtos</li>
+<li>Medidas proporcionais com CSS</li>
+<li>Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS</li>
+<li>Como limpar o float, com a propriedade clear do CSS</li>
 <li></li>
 <li></li>
 <li></li>

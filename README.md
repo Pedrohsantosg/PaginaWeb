@@ -113,7 +113,10 @@
 <li>A tag tfoot, que representa o rodapé da tabela</li>
 <li>A estilizar a tabela</li>
 <h2>Parte 4 :</h2>
-
-
-
-
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>

@@ -112,6 +112,7 @@
 <li>A tag th, que representa a célula do cabeçalho da tabela</li>
 <li>A tag tfoot, que representa o rodapé da tabela</li>
 <li>A estilizar a tabela</li>
+<h2>Parte 4 :</h2>
 
 
 
